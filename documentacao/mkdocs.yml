@@ -1,7 +1,31 @@
 site_name: Documentacao TI
 
-
 nav:
   - Início: index.md
-  - Login:  login/login.md
-  - Tela Inicial: telaInicio/telaInicio.md
+  - 'Gennera':
+    - Login: login/login.md
+    - Tela Inicial: telaInicio/telaInicio.md
+
+theme:
+  name: material
+  palette:
+    - scheme: light
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Alternar para modo escuro
+      primary: red
+      accent: indigo
+
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Alternar para modo claro
+      primary: red
+      accent: light red
+
+  font:
+    text: Poppins
+
+  nav_style: dark
+  language: pt
+
