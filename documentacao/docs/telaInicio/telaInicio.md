@@ -10,7 +10,7 @@ Na barra superior, você pode clicar no ícone do seu perfil para acessar as con
 
 Ao clicar em um módulo disponivél você acessará a funcionalidade descrita
 
-<-- ### Arquivos -->
+<!-- ### Arquivos -->
 
 ### Financeiro 
 
