@@ -5,6 +5,8 @@ nav:
   - 'Gennera':
     - Login: login/login.md
     - Tela Inicial: telaInicio/telaInicio.md
+    - 'Módulos' :
+      - Acadêmico: academico/academico.md
 
 theme:
   name: material
