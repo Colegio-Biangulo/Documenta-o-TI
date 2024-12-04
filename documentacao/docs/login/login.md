@@ -4,7 +4,7 @@ Esta é a tela inicial do [Gennera](https://apps.gennera.com.br/public/index.htm
 
 ## Funcionário
 
-### Passo a passo:
+### Passo a passo
 
 1. **Digite seu e-mail institucional**:
    - Caso ainda não tenha um, entre em contato com o RH ou a Secretaria.
@@ -18,12 +18,10 @@ Esta é a tela inicial do [Gennera](https://apps.gennera.com.br/public/index.htm
      4. Você receberá um e-mail com instruções para redefinir sua senha. Não se esqueça de verificar sua caixa de SPAM, caso não encontre o e-mail na caixa de entrada.
 
 3. **Aperte o botão de *Entrar***.
-
----
 
 ## Responsáveis
 
-### Passo a passo:
+### Passo a passo
 
 1. **Digite seu e-mail institucional**:
    - Caso ainda não tenha um, entre em contato com o RH ou a Secretaria.
@@ -38,11 +36,9 @@ Esta é a tela inicial do [Gennera](https://apps.gennera.com.br/public/index.htm
 
 3. **Aperte o botão de *Entrar***.
 
----
-
 ## Alunos
 
-### Passo a passo:
+### Passo a passo
 
 1. **Digite seu e-mail institucional**:
    - Caso ainda não tenha um, entre em contato com o RH ou a Secretaria.
