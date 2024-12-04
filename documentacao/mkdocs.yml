@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Documentacao TI
+
+
+nav:
+  - Início: index.md
+  - Login:  login/login.md
+  - Tela Inicial: telaInicio/telaInicio.md
