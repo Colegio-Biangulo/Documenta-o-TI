@@ -29,3 +29,16 @@ theme:
   nav_style: dark
   language: pt
 
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - navigation.footer
+    - navigations.indexes
+    - content.code.copy
+    #- toc.integrate
+    - search.suggest
+    - search.highlight
+
