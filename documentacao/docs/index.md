@@ -1,15 +1,8 @@
-# Welcome to MkDocs
+# Bem-vindo a documentação da TIângulo
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Aqui você encontrará um tutorial e o passo a passo de cada uma das funcionalidades das plataformas [Documentção](https://www.mkdocs.org).
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
+## Pastas
 
     mkdocs.yml    # The configuration file.
     docs/
