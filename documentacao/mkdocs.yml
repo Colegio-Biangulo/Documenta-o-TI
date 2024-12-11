@@ -30,6 +30,8 @@ theme:
 
   nav_style: dark
   language: pt
+  logo: assets/logo_Cb.svg
+  favicon: assets/logo_Cb.svg
 
   features:
     - navigation.tabs
