@@ -6,7 +6,9 @@ nav:
     - Login: login/login.md
     - Tela Inicial: telaInicio/telaInicio.md
     - 'Módulos' :
-      - Acadêmico: academico/academico.md
+      - 'Acadêmico':
+        - Acadêmico: academico/academico.md
+        - Cursos: academico/curso.md
 
 theme:
   name: material
