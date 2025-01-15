@@ -4,7 +4,8 @@ Aqui você encontrará um tutorial e o passo a passo de cada uma das funcionalid
 
 ## Pastas
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    Início    # Esta página.
+    Gennera/  # Todo sobre o gennera
+        Login/  
+        Acadêmico/ 
+                Cursos

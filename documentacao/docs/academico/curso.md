@@ -54,6 +54,54 @@ E assim seu currículo estará criado e aparecerá dentro do curso.
 
 ![Sc](../assets/imagens/curso/cur.png)
 
+### Configuração do Currículo
+
+Após criar o currículo, você pode clicá-lo para abrir uma nova página. Nessa página, haverá um botão de **Configuração**.
+
+![](../assets/imagens/curso/botaoConfig.png)
+
+Ao clicar no botão, será aberta uma nova página onde, através das abas, é possível editar:
+
+- **Geral**
+
+    ![](../assets/imagens/curso/abasCurr.png)
+
+    - Nome do currículo: Nome definido inicialmente.
+    - Quantidade mínima de matérias.
+    - Quantidade máxima de matérias.
+    - Prazo mínimo para integralização: (Não se aplica ao Biângulo).
+    - Próximo curso ou currículo: Define o próximo curso que o aluno realizará ao concluir este currículo.
+
+- **Carga Horária**
+
+    ![](../assets/imagens/curso/cargaCurr.png)
+
+    - Preencha apenas a carga horária de aula de cada currículo.
+
+- **Atividades Complementares**
+
+   - (Não se aplica ao Biângulo).
+
+- **Áreas de Conhecimento**
+
+    - Categorias a que um conjunto de matérias pertence (ex.: Ciências - Biologia, Química e Física).
+
+    - Clique no botão **+ Área de Conhecimento** e insira o nome desejado.
+
+      ![](../assets/imagens/curso/areaCcurr.png)
+
+      ![](../assets/imagens/curso/PAC.png)
+
+- **Grupo de Disciplina**
+
+    - Define categorias da base curricular (ex.: MEC).
+
+    - Clique no botão **+ Grupo de Disciplina** e insira o nome desejado.
+
+      ![](../assets/imagens/curso/botaoGP.png)
+
+      ![](../assets/imagens/curso/GP.png)
+
 ## Criação do Módulo:
 
 Para criar um módulo, clique no currículo previamente criado dentro do curso.
@@ -70,22 +118,52 @@ Você será direcionado para um campo onde poderá inserir o nome do módulo.
 
 Após isso, você terá a opção de criar as disciplinas que farão parte do módulo.
 
-### Criação das disciplinas :
+### Criação das Disciplinas
 
-Após criar o módulo aparecerá o botão +disciplina no conta do módulo
+Após criar o módulo, aparecerá o botão **+Disciplina** no canto do módulo.
 
-![]()
+![](../assets/imagens/curso/botaoDisc.png)
 
-Após clicar abrirá uma nova página para preencher as informações da disciplina
+Ao clicar, abrirá uma nova página para preencher as informações da disciplina.
 
-![]()
+![](../assets/imagens/curso/telaDisc.png)
 
-Você de preencher
+Você deve preencher:
 
-- Nome - nome da discplina 
+- **Nome**: Nome da disciplina.
+- **Área do conhecimento**: Escolha uma área existente (ex.: Ciências) ou crie uma nova. [Saiba como criar uma área do conhecimento](#configuracao-do-curriculo)
+- **Agrupadora**: Permite juntar disciplinas de um mesmo módulo (ex.: Português - Gramática, Literatura).
+- **Grupo de disciplina**: Escolha um grupo existente ou crie um novo. [Saiba como criar um grupo de disciplina](#configuracao-do-curriculo)
+- **Código da disciplina**: Identificador da disciplina (ex.: Matemática - MAT).
+- **Crédito**: No contexto do Biângulo, este campo não é utilizado.
 
-- Área do conhecimento - Ciências ... Selecione uma opção criada ou crie uma [como criar área do conhecimento]()
+Após preencher, marque as opções conforme o caso:
 
-- Agrupadora - Você pode juntar disciplinas de um mesmo módulo (Ex: Português - Gramática, literatura)
+![](../assets/imagens/curso/opcaoDisc.png)
 
-- 
+- **Obrigatória**: Disciplinas fundamentais definidas pelo MEC.
+- **Extensão**: Disciplinas de horas complementares que não impedem a formação (não se aplica ao Biângulo).
+- **Itinerário**: Matérias do contraturno previstas no novo padrão do MEC.
+- **Extracurricular**: Matérias extras, como esportes.
+- **Estágio**: Para casos em que o estágio é uma disciplina (não se aplica ao Biângulo).
+
+Nas outras abas, você pode:
+
+![](../assets/imagens/curso/abasDisc.png)
+
+Configurar a **carga horária** da disciplina:
+
+![](../assets/imagens/curso/telaCarga.png)
+
+- Presencial (única utilizada no Biângulo)
+- Remota
+- Teórica
+- Prática
+
+**Pré-requisitos**: (Não se aplica ao Biângulo)
+
+**Co-requisitos**: (Não se aplica ao Biângulo)
+
+**Equivalência**: (Não se aplica ao Biângulo)
+
+**Plano de ensino**: Seria a ementa da disciplina, mas não se aplica.
