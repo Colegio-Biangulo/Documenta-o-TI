@@ -4,8 +4,11 @@ Aqui você encontrará um tutorial e o passo a passo de cada uma das funcionalid
 
 ## Pastas
 
-    Início    # Esta página.
-    Gennera/  # Todo sobre o gennera
-        Login/  
-        Acadêmico/ 
-                Cursos
+- Início: Esta página.
+- Gennera: Todo sobre o gennera
+    - Login  
+    - Tela de ínicio
+    - Módulos
+        - Acadêmico 
+            - Cursos
+            - Calendário Acadêmico

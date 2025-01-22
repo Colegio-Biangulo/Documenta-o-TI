@@ -9,6 +9,7 @@ nav:
       - 'Acadêmico':
         - Acadêmico: academico/academico.md
         - Cursos: academico/curso.md
+        - Calendários Acadêmicos: academico/calendario.md
 
 theme:
   name: material
