@@ -29,6 +29,7 @@ Nas seções seguintes, explicaremos detalhadamente como realizar cada uma das a
 No canto superior direito, localize o botão **Calendário Acadêmico** e clique nele:
 
 ![](../assets/imagens/calendario/botaoLateral.png)
+![](../assets/imagens/calendario/telaC.png)
 
 Ao clicar, aparecerão as seguintes opções:
 
@@ -40,7 +41,7 @@ Ao clicar, aparecerão as seguintes opções:
 
 Selecione **Novo** ou **Copiar** para abrir a tela de criação/edição de calendário:
 
-![](../assets/imagens/calendario/telaC.png)
+![](../assets/imagens/calendario/prrencherC.png)
 
 Campos a serem preenchidos:
 
@@ -55,7 +56,9 @@ Certifique-se de que a opção **Ativo** esteja habilitada.
 
 ### Configuração do Calendário Acadêmico
 
-Mude para a aba **Regras**, onde será possível:
+Mude para a aba **Regras** no topo da janela aberta.
+
+Onde será possível:
 
 ![](../assets/imagens/calendario/regras.png)
 
@@ -66,6 +69,46 @@ Após configurar, clique em **Salvar**.
 
 ![](../assets/imagens/calendario/salvar.png)
 
-## Criação de períodos:
+## Criação de Períodos  
 
-### Configuração do período:
+Após criar ou selecionar um calendário acadêmico, aparecerá um botão **+**. Clique nele:  
+
+![](../assets/imagens/calendario/botaõ+.png)  
+
+Uma nova tela será exibida.  
+
+![](../assets/imagens/calendario/periodo.png)
+
+Campos a serem preenchidos:  
+
+- **Nome**: O nome do período, por exemplo, "1º Trimestre".  
+- **Código**: A identificação única do período.  
+- **Data de Início e Data de Fim**: O intervalo de duração do período.  
+
+Selecione se o período é de **Recuperação** ou **Itinerário** (atualmente utilizamos apenas o período de recuperação).  
+
+![](../assets/imagens/calendario/opca.png)  
+
+### Configuração do Período  
+
+Altere para a aba **Regras**.  
+
+![](../assets/imagens/calendario/regrasP.png)
+
+Isso abrirá uma nova tela onde será possível:  
+
+- Definir as datas para o lançamento de notas e frequências.  
+
+Após configurar, lembre-se de clicar em **Salvar**.  
+
+![](../assets/imagens/calendario/salvar.png)  
+
+### Edição ou Remoção de Períodos  
+
+Após a criação, você poderá editar ou remover um período. Para isso, passe o mouse sobre o período desejado. As seguintes opções aparecerão:  
+
+- **Lápis**: Para editar o período.  
+- **Lixeira**: Para remover o período.  
+
+![](../assets/imagens/calendario/EDIT.png)  
+
