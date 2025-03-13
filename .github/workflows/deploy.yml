@@ -3,7 +3,10 @@ name: Deploy MkDocs
 on:
   push:
     branches:
-      - main  # Altere para a branch principal do seu repositório
+      - main  # Ou a branch principal do seu repositório
+
+permissions:
+  contents: write  # Permite a ação fazer push no branch gh-pages
 
 jobs:
   deploy:
@@ -12,14 +15,14 @@ jobs:
       - name: Checkout do código
         uses: actions/checkout@v4
 
-      - name: Instalar Python e dependências
+      - name: Instalar Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Instalar MkDocs
+      - name: Instalar MkDocs e plugins
         run: pip install mkdocs mkdocs-material
 
       - name: Fazer deploy para GitHub Pages
         run: mkdocs gh-deploy --force
-
+ 
