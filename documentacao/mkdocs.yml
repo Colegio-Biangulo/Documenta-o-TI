@@ -10,6 +10,7 @@ nav:
         - Acadêmico: academico/academico.md
         - Cursos: academico/curso.md
         - Calendários Acadêmicos: academico/calendario.md
+        - Ofertas: academico/ofertas.md
 
 theme:
   name: material

@@ -151,6 +151,10 @@ Após configurar, lembre-se de clicar em **Salvar**.
 
 ![](../assets/imagens/calendario/salvar.png)  
 
+Após se estiver tudo pronto clique em **Gerar Aulas** para gerar todas as aulas da turma.
+
+![]()
+
 ### Edição ou Remoção de Períodos  
 
 Após a criação, você poderá editar ou remover um período. Para isso, passe o mouse sobre o período desejado. As seguintes opções aparecerão:  
