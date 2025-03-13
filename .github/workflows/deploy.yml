@@ -23,6 +23,9 @@ jobs:
       - name: Instalar MkDocs e plugins
         run: pip install mkdocs mkdocs-material
 
+      - name: Mudar para a pasta de documentação
+        run: cd documentacao
+
       - name: Fazer deploy para GitHub Pages
         run: mkdocs gh-deploy --force
  
