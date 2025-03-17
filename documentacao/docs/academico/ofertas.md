@@ -1,6 +1,6 @@
 # Ofertas
 
-![Imagem ilustrativa](image_link_placeholder)
+![](../assets/imagens/oferta/iconeO.png)
 
 Esta seção destina-se à configuração das ofertas da unidade para o ano letivo. As principais funcionalidades incluem:
 
@@ -13,7 +13,7 @@ Esta seção destina-se à configuração das ofertas da unidade para o ano leti
 
 Abaixo está um exemplo da interface da tela de ofertas:
 
-![Interface de ofertas](image_link_placeholder)
+![Interface de ofertas](../assets/imagens/oferta/tela.png)
 
 A partir dessa interface, você poderá visualizar e realizar as seguintes operações:
 
@@ -28,7 +28,7 @@ Nas seções seguintes, explicamos detalhadamente como executar cada uma dessas 
 
 No canto superior, localize o botão **+** e clique nele:
 
-![Botão de adicionar segmento](image_link_placeholder)
+![Botão de adicionar segmento](../assets/imagens/oferta/botao+.png)
 
 Ao clicar, escolha as seguintes opções:
 
@@ -39,7 +39,7 @@ Ao clicar, escolha as seguintes opções:
 
 Clique no segmento criado:
 
-![Botão de segmento](../assets/imagens/calendario/botaoLateral.png)
+![Botão de segmento](../assets/imagens/oferta/opcao.png)
 
 Ao clicar, aparecerão as seguintes opções:
 
@@ -51,13 +51,19 @@ Ao clicar, aparecerão as seguintes opções:
 
 Selecione **Turmas**:
 
-![Botão de turmas](image_link_placeholder)
+![Botão de turmas](../assets/imagens/oferta/opcaoturma.png)
+
+Abrirá uma nova tela:
+
+![](../assets/imagens/oferta/telaGT.png)
 
 Clique no botão **+ Turmas**.
 
-![Botão de adicionar turma](image_link_placeholder)
+![Botão de adicionar turma](../assets/imagens/oferta/botao+turma.png)
 
 Uma nova tela será aberta. Preencha os seguintes campos:
+
+![](../assets/imagens/oferta/turmaTela.png)
 
 - **Nome da turma**: Exemplo (A, B, C...).
 - **Turno**: Período da turma (Matutino, Vespertino...).
@@ -66,13 +72,13 @@ Uma nova tela será aberta. Preencha os seguintes campos:
 
 Clique em **Salvar**.
 
-![Salvar turma](image_link_placeholder)
+![Salvar turma](../assets/imagens/oferta/salvar.png)
 
 ## Configuração da Turma
 
 Clique no nome da turma criada para acessar as opções:
 
-![Tela de configuração da turma](image_link_placeholder)
+![Tela de configuração da turma](../assets/imagens/oferta/editarTurma.png)
 
 - Editar os dados da turma.
 - Adicionar disciplinas.
@@ -82,11 +88,11 @@ Clique no nome da turma criada para acessar as opções:
 
 Após selecionar a turma, clique no botão **+ Disciplina**:
 
-![Botão de adicionar disciplina](image_link_placeholder)
+![Botão de adicionar disciplina](../assets/imagens/oferta/+Dp.png)
 
 Uma nova tela será exibida:
 
-![Tela de disciplina](image_link_placeholder)
+![Tela de disciplina](../assets/imagens/oferta/NovaDP.png)
 
 Preencha os seguintes campos:
 
@@ -99,7 +105,11 @@ Preencha os seguintes campos:
 
 Na parte superior, selecione **Professor** e escolha o professor responsável pela turma.
 
-![Escolher professor](image_link_placeholder)
+![Escolher professor](../assets/imagens/oferta/prof.png)
+
+clique em **Salvar**:
+
+![](../assets/imagens/oferta/salvar.png)
 
 ## Publicação de Notas e Médias
 
@@ -109,11 +119,13 @@ Na parte superior, selecione **Professor** e escolha o professor responsável pe
 
 Na tela de turmas, clique no botão **+ Ações**.
 
-![Botão de ações](image_link_placeholder)
+![Botão de ações](../assets/imagens/oferta/acG.png)
 
 ### Publicação Individual
 
 Selecione a turma e repita o processo clicando em **+ Ações**.
+
+![](../assets/imagens/oferta/acI.png)
 
 As seguintes opções serão exibidas:
 
@@ -126,39 +138,53 @@ As seguintes opções serão exibidas:
 
 Selecione o segmento e clique na opção **Aulas**.
 
-![Botão de aulas](image_link_placeholder)
+![Botão de aulas](../assets/imagens/oferta/opcaoTurma.png)
 
 Isso abrirá uma nova tela onde será possível:
 
 - Ver as aulas já criadas ao selecionar uma turma nos filtros.
 
+![](../assets/imagens/oferta/telaTurma.png)
+
 Para criar, selecione um módulo e turma.
 
-![Selecionar módulo e turma](image_link_placeholder)
+![Selecionar módulo e turma](../assets/imagens/oferta/filtrosAulas.png)
 
 E clique no botão **+ Quadro de horários**.
 
-![Botão de quadro de horários](image_link_placeholder)
+![Botão de quadro de horários](../assets/imagens/oferta/botaoQH.png)
 
 Isso abrirá uma nova tela com a grade já criada, ou vazia.
 
-![Tela de quadro de horários](image_link_placeholder)
+![Tela de quadro de horários](../assets/imagens/oferta/Grade.png)
 
 Você pode selecionar uma disciplina no horário já existente ou clicar no lápis ao lado da turma e adicionar um horário.
 
-![Adicionar horário](image_link_placeholder)
+![Adicionar horário](../assets/imagens/oferta/criaInd.png)
+
+Isso vai abrir uma tela para selecionar o périodo do novo horário:
+
+![](../assets/imagens/oferta/novoH.png)
+
+Clique no mais:
+
+![](../assets/imagens/oferta/+h.png)
+
+Onde você pode explicar o horarário e se é um intervalo:
+
+![](../assets/imagens/oferta/H.png)
 
 Após configurar, lembre-se de clicar em **Salvar**.
 
-![Salvar horário](../assets/imagens/calendario/salvar.png)
+![Salvar horário](../assets/imagens/oferta/salvarAula.png)
 
 Após concluir, clique em **Gerar Aulas** para gerar todas as aulas da turma.
 
-![Gerar aulas](image_link_placeholder)
+![Gerar aulas](../assets/imagens/oferta/gerar.png)
 
-Caso necessário, é possível apagar todas as aulas com o botão **Apagar aulas**.
+Caso necessário, é possível apagar todas as aulas com o botão **Apagar aulas**, na tela anterior a esta.
 
-![Apagar aulas](image_link_placeholder)
+![Apagar aulas](../assets/imagens/oferta/apagarAula.png)
 
 ## Criação de Avaliações
 
