@@ -47,7 +47,7 @@ Clique no botão **+** no canto superior da tela.
 
 Na tela exibida, informe o ano desejado.  
 
-![](../assets/imagens/dias/ano.png)
+![](../assets/imagens/dias/pa.png)
 
 Clique no botão **Salvar**.  
 
