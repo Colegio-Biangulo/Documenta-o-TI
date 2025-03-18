@@ -13,6 +13,8 @@ nav:
         - Ofertas: academico/ofertas.md
         - Sistemas de Avaliação: academico/sistemaAvaliacoes.md
         - Urânia: academico/urania.md
+        - Dias não trabalhados: academico/diasNtrab.md
+
 
 theme:
   name: material
