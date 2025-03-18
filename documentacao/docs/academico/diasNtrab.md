@@ -15,7 +15,7 @@ A seguir, explicamos como realizar cada uma das ações mencionadas acima.
 
 ## Criar um Dia Não Trabalhado  
 
-Selecione ou [crie]() o ano desejado:  
+Selecione ou [crie](#adicionar-um-novo-ano) o ano desejado:  
 
    ![](../assets/imagens/dias/ano.png)  
 
