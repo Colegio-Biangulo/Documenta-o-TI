@@ -2,7 +2,7 @@
 
 ![Ícone do curso](../assets/imagens/dias/icone.png)  
 
-Esta seção permite a criação de feriados e dias sem aula que não estão no calendário nacional, como recessos escolares. As principais funcionalidades incluem:  
+Esta seção permite a criação de feriados e dias sem aula que não estão no calendário nacional, como recessos escolares. Necessário para não gerar aulas nestes dias. As principais funcionalidades incluem:  
 
 - **Criação de dias não trabalhados**: Configure os dias em que não haverá aulas.  
 - **Adição de um novo ano**: Adicione um ano letivo para associar os dias não trabalhados.  
