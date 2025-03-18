@@ -12,6 +12,7 @@ nav:
         - Calendários Acadêmicos: academico/calendario.md
         - Ofertas: academico/ofertas.md
         - Sistemas de Avaliação: academico/sistemaAvaliacoes.md
+        - Urânia: academico/urania.md
 
 theme:
   name: material
