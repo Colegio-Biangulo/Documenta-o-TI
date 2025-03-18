@@ -2,7 +2,7 @@
 
 ![](../assets/imagens/oferta/iconeO.png)
 
-Esta seção destina-se à configuração das ofertas da unidade para o ano letivo. As principais funcionalidades incluem:
+Esta seção destina-se à configuração das ofertas da unidade para o ano letivo, será o espelho do que os alunos observam no [Sala de aula](). As principais funcionalidades incluem:
 
 ## Funcionalidades
 
@@ -32,8 +32,8 @@ No canto superior, localize o botão **+** e clique nele:
 
 Ao clicar, escolha as seguintes opções:
 
-- **Curso**: Criado na seção [Curso](link_placeholder).
-- **Currículo**: Criado na seção [Currículo](link_placeholder).
+- **Curso**: Criado na seção [Curso](./curso.md).
+- **Currículo**: Criado na seção [Currículo](./curso.md).
 
 ## Criação de Turmas
 
@@ -154,29 +154,34 @@ E clique no botão **+ Quadro de horários**.
 
 ![Botão de quadro de horários](../assets/imagens/oferta/botaoQH.png)
 
-Isso abrirá uma nova tela com a grade já criada, ou vazia.
+Isso abrirá uma nova tela com a grade já criada onde você pode escolher as disciplinas da turma, ou vazia.
 
 ![Tela de quadro de horários](../assets/imagens/oferta/Grade.png)
 
-Você pode selecionar uma disciplina no horário já existente ou clicar no lápis ao lado da turma e adicionar um horário.
+<details>
+  <summary>Como criar uma nova grade</summary>
 
-![Adicionar horário](../assets/imagens/oferta/criaInd.png)
+  <p>Você pode selecionar uma disciplina no horário já existente ou clicar no lápis ao lado da turma e adicionar um horário.</p>
 
-Isso vai abrir uma tela para selecionar o périodo do novo horário:
+  <img src="/assets/imagens/oferta/mudarIma.png" alt="Adicionar horário" width="1000" height="400">
 
-![](../assets/imagens/oferta/novoH.png)
+  <p>Isso vai abrir uma tela para selecionar o período do novo horário:</p>
 
-Clique no mais:
+  <img src="/assets/imagens/oferta/novoH.png" alt="Selecionar período" width="400">
 
-![](../assets/imagens/oferta/+h.png)
+  <p>Clique no mais:</p>
 
-Onde você pode explicar o horarário e se é um intervalo:
+  <img src="/assets/imagens/oferta/+h.png" alt="Adicionar novo horário" width="50">
 
-![](../assets/imagens/oferta/H.png)
+  <p>Onde você pode explicar o horário e se é um intervalo:</p>
 
-Após configurar, lembre-se de clicar em **Salvar**.
+  <img src="/assets/imagens/oferta/H.png" alt="Definir horário" width="400">
 
-![Salvar horário](../assets/imagens/oferta/salvarAula.png)
+  <p>Após configurar, lembre-se de clicar em <b>Salvar</b>.</p>
+
+  <img src="/assets/imagens/oferta/salvarAula.png" alt="Salvar horário" width="100">
+
+</details>
 
 Após concluir, clique em **Gerar Aulas** para gerar todas as aulas da turma.
 
@@ -190,69 +195,80 @@ Caso necessário, é possível apagar todas as aulas com o botão **Apagar aulas
 
 Após a criação do segmento e das turmas, você poderá criar as avaliações para informar suas respectivas notas e pesos. Selecione o segmento e clique em **Avaliações**.
 
-![Tela de avaliações](image_link_placeholder)
+![Tela de avaliações](../assets/imagens/oferta/avaliacoes.png)
+
+Isso irá abrir a seguinte tela:
+
+![](../assets/imagens/oferta/telaAva.png)
 
 Selecione no topo a série.
 
-![Selecionar série](image_link_placeholder)
+![Selecionar série](../assets/imagens/oferta/moduloAva.png)
 
 Após isso, selecione uma turma.
 
-![Selecionar turma](image_link_placeholder)
+![Selecionar turma](../assets/imagens/oferta/turmaAva.png)
 
 Selecione a matéria; abrirão os períodos.
 
-![Selecionar matéria](image_link_placeholder)
+![Selecionar matéria](../assets/imagens/oferta/periodosAva.png)
 
 Clique no **+** no respectivo período.
 
-![Adicionar avaliação](image_link_placeholder)
+![Adicionar avaliação](../assets/imagens/oferta/maisAva.png)
 
 Abrirá uma nova tela com os seguintes campos para preenchimento:
 
-- **Nome**:
-- **Código**:
-- **Nota máxima**:
-- **Peso**:
-- **Ignorar fórmula**:
+![](../assets/imagens/oferta/campAva.png)
+
+- **Nome**: Da avaliação
+- **Código**: Abreviação da avaliação
+- **Nota máxima**: maior nota
+- **Peso**: Peso que ela vale na média do périodo
+- **Ignorar fórmula**: para não contabilizar a avaliação na média
 
 Preencha os campos e clique em **Salvar**.
 
-![Salvar avaliação](image_link_placeholder)
+![Salvar avaliação](../assets/imagens/oferta/salvar.png)
 
 No topo, selecione **Copiar em** para replicar esta avaliação em outras matérias e períodos.
 
-![Copiar avaliação](image_link_placeholder)
+![Copiar avaliação](../assets/imagens/oferta/copiaAva.png)
 
 E clique em **Salvar**.
 
-![Salvar cópia](image_link_placeholder)
+![Salvar cópia](../assets/imagens/oferta/salvar.png)
 
 Após criar, ao passar o mouse por cima, você pode apagar ou editar a avaliação.
 
-![Editar ou apagar avaliação](image_link_placeholder)
+![Editar ou apagar avaliação](../assets/imagens/oferta/edicaoAva.png)
 
-## Ajuste de Fórmulas
+### Ajuste de Fórmulas
 
-Após clicar em uma matéria, você pode ajustar a fórmula daquele período (para calcular a avaliação do aluno) no ícone:
+Após clicar em uma matéria, você pode ajustar a fórmula daquele período (para calcular a avaliação do aluno) no ícone **X²**:
 
-![Ícone de fórmula](image_link_placeholder)
+![Ícone de fórmula](../assets/imagens/oferta/form.png)
 
 Selecione a opção mais adequada.
 
-Você pode testar a conta clicando no ícone:
+![](../assets/imagens/oferta/opcaoForm.png)
 
-![Testar fórmula](image_link_placeholder)
+Você pode testar a fórmula clicando no ícone **▶**:
 
-## Outras Funcionalidades
+![Testar fórmula](../assets/imagens/oferta/play.png)
+
+### Outras Funcionalidades:
 
 Para facilitar o uso do sistema, o Gennera disponibiliza as seguintes opções no botão de **Ações**:
 
-![]()
+![](../assets/imagens/oferta/opcaoAva.png)
 
 - **Fórmulas**: Para personalizar uma fórmula.
 - **Fórmula de média do período**: Para alterar a fórmula.
 - **Modelos de avaliações**: Aqui você pode criar um avaliação para vários segmentos de uma única vez.
 - **Processar médias de períodos**: Pode verificar se os pesos estão calculados correntamente.
 - **Acompanhamento de cálculo médio**: Visualizar quem rodou as médias.
+
+
+
 
