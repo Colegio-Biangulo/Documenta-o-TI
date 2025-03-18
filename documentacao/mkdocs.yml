@@ -11,6 +11,7 @@ nav:
         - Cursos: academico/curso.md
         - Calendários Acadêmicos: academico/calendario.md
         - Ofertas: academico/ofertas.md
+        - Sistemas de Avaliação: academico/sistemaAvaliacoes.md
 
 theme:
   name: material
