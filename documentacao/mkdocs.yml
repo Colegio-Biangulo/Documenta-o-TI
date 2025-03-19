@@ -17,6 +17,8 @@ nav:
         - Dias não trabalhados: academico/diasNtrab.md
         - Permissões: academico/permissao.md
         - Estrutura Física: academico/estrutura.md
+      - 'Sala de aula':
+        - Sala de aula: salaDeAula/salaDeAula.md
 
 
 theme:

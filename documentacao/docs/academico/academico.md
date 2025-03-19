@@ -18,15 +18,15 @@ Na barra superior, você encontrará:
 
     - **Funcionalidades**: o que você pode acessar ao clicar 
 
-        1. Cursos
-        2. Caléndarios Acadêmicos
-        3. Ofertas
-        4. Sistema de Avaliação
-        5. Urânia
-        6. Conceitos
-        7. Dias Não trabalhados
-        8. Permissões
-        9. Estrutura Física
+        1. [Cursos](./curso.md)
+        2. [Caléndarios Acadêmicos](./calendario.md)
+        3. [Ofertas](./ofertas.md)
+        4. [Sistema de Avaliação](./sistemaAvaliacoes.md)
+        5. [Urânia](./urania.md)
+        6. [Conceitos](./conceitos.md)
+        7. [Dias Não trabalhados](./diasNtrab.md)
+        8. [Permissões](./permissao.md)
+        9. [Estrutura Física](./estrutura.md)
 
   - **Ícone do perfil**: Permite alternar entre as unidades às quais você tem acesso.
 
