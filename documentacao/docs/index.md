@@ -5,10 +5,7 @@ Aqui você encontrará um tutorial e o passo a passo de cada uma das funcionalid
 ## Pastas
 
 - Início: Esta página.
-- Gennera: Todo sobre o gennera
-    - Login  
-    - Tela de ínicio
-    - Módulos
-        - Acadêmico 
-            - Cursos
-            - Calendário Acadêmico
+- [Gennera](./login/login.md): Todo sobre o gennera
+    - [Login](./login/login.md)
+    - [Tela de ínicio](./telaInicio/telaInicio.md)
+    - [Módulos](./academico/academico.md)
